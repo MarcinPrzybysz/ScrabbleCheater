@@ -2,7 +2,8 @@ public class Runner {
 
     public static void main(String[] args) {
 
-        MainWindow window = new MainWindow();
-
+       // Window window = new Window();
+       // window.createAndShowGUI();
+        Engine engine = new Engine();
     }
 }
